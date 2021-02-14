@@ -1,7 +1,6 @@
 import React from 'react';
 import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { useHistory } from 'react-router-dom';
-import './app.css';
 import * as orders from './orders.json';
 import { Summary } from './summary';
 
